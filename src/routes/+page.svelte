@@ -9,7 +9,7 @@
         align-items: center;
         justify-content: center;
         width: 100vw;
-        height: 500px;
+        height: 300px;
         margin-bottom: 100px;
 
         background: url(/img/border.svg) repeat-x 0% 100%/270px, var(--primary-1);
@@ -30,7 +30,7 @@
     }
 
     .fpage img {
-        height: 200px;
+        height: 100px;
         animation: spin 5s linear infinite;
     }
 
@@ -39,7 +39,7 @@
     @keyframes translate { 
         50% { 
             background: url(/img/border.svg) repeat-x 700px 100%/150px, var(--primary-1); 
-            height: 600px; 
+            height: 400px; 
             margin-bottom: 0;
         } 
 
@@ -72,10 +72,11 @@
 </div>
         
 <Section>
-    <h2>Contact Cards</h2>
+    <h2>Contacts and Projects</h2>
     <div class='hwrap'>
         <Project name='GitHub' url='https://github.com/tdgmcode' img='/img/github-mark-white.svg' />
-        <Project name='Dynambu' url='https://dynambu.lunarsphere.net/u/tdgmdev/' img='https://dynambu.lunarsphere.net/img/branding/dynambu_logo_icon.svg' />
+        <Project name='Sanifae' url='https://sanifae.tdgmdev.net/users/tdgmdev' img='https://sanifae.tdgmdev.net/icon_sanifae_black.svg' />
         <Project name='YouTube' url='https://www.youtube.com/channel/UC8XuOpsm85rVTMcT2Tb7d8w' img='https://www.youtube.com/favicon.ico' />
+        <Project name='Files' url='https://files.tdgmdev.net/data' img='/img/favicon.svg' />
     </div>
 </Section>
