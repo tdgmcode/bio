@@ -7,7 +7,7 @@
 <style>
     .project, .content {
         width: 300px;
-        height: 250px;
+        height: 150px;
         display: flex;
         flex-direction: column;
         box-shadow: 0 0px 5px 3px rgba(0,0,0,0.2);
