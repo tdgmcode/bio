@@ -79,7 +79,7 @@
         <Project name='Sanifae' url='https://sanifae.tdgmdev.net/users/tdgmdev' img='https://sanifae.tdgmdev.net/icon_sanifae_black.svg' />
         <Project name='YouTube' url='https://www.youtube.com/channel/UCX9pYmio1T6yqS-ZjqyNnlg' img='https://www.youtube.com/favicon.ico' />
         <Project name='Files' url='https://files.tdgmdev.net/data' img='/img/favicon.svg' />
-        <Project name='Scratch' url='https://scratch.mit.edu/users/malloc62' img='https://scratch.mit.edu/favicon.ico' />
+        <Project name='Newgrounds' url='https://malloc62.newgrounds.com' img='http://www.newgrounds.com/favicon.ico' />
         <Project name='DeviantArt' url='https://www.deviantart.com/malloc62' img='https://www.deviantart.com/favicon.ico' />
         <Project name='Dynambu' url='https://dynambu.lunarsphere.net/u/malloc62' img='https://dynambu.lunarsphere.net/img/branding/dynambu_logo_icon.svg' />
         <Project name='FANDOM' url='https://alldimensions.fandom.com/users/User:08dravennew' img='https://static.wikia.nocookie.net/alldimensions/images/4/4a/Site-favicon.ico' />
