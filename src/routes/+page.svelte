@@ -73,22 +73,18 @@
 </div>
         
 <Section>
-    <h2>Contacts and Projects</h2>
+    <h2>Projects</h2>
     <div class='hwrap'>
-        <Project name='Git' url='https://git.tdgmdev.net/' img='/img/favicon.svg' />
-        <Project name='Sanifae' url='https://sanifae.tdgmdev.net/users/tdgmdev' img='https://sanifae.tdgmdev.net/icon_sanifae_black.svg' />
+        <Project name='Sanifae Legacy' url='https://sanifae.tdgmdev.net/users/tdgmdev' img='https://sanifae.tdgmdev.net/icon_sanifae_black.svg' />
         <Project name='Files' url='https://files.tdgmdev.net/data' img='/img/favicon.svg' />
-        <Project name='Newgrounds' url='https://malloc62.newgrounds.com' img='http://www.newgrounds.com/favicon.ico' />
-        <Project name='DeviantArt' url='https://www.deviantart.com/malloc62' img='https://www.deviantart.com/favicon.ico' />
-        <Project name='Dynambu' url='https://dynambu.lunarsphere.net/u/malloc62' img='https://dynambu.lunarsphere.net/img/branding/dynambu_logo_icon.svg' />
     </div>
-    <h2>Danger Zone</h2>
+    <h2>Contacts</h2>
     <div class='hwrap'>
-        <Project name='FANDOM' url='https://alldimensions.fandom.com/users/User:08dravennew' img='https://static.wikia.nocookie.net/alldimensions/images/4/4a/Site-favicon.ico' />
         <Project name='GitHub' url='https://github.com/tdgmcode' img='/img/github-mark-white.svg' />
+        <Project name='FANDOM' url='https://alldimensions.fandom.com/users/User:08dravennew' img='https://static.wikia.nocookie.net/alldimensions/images/4/4a/Site-favicon.ico' />
         <Project name='YouTube' url='https://www.youtube.com/channel/UCX9pYmio1T6yqS-ZjqyNnlg' img='https://www.youtube.com/favicon.ico' /> 
     </div>
-    <h2>Contacts with no URLs</h2>
+    <h2>Extras</h2>
     <p>Matrix: <b>@derv:matrix.org</b></p>
     <p>Chat: <b>Xodrium#6622</b></p>
 </Section>
