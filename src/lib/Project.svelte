@@ -44,7 +44,7 @@
 
 <div class='project'>
     <h2>
-        <img src={img} alt='{name} Icon'>
+        <img src={img} alt=''>
         <a href={url}>{name}</a>
     </h2>
     <slot />
