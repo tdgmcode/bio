@@ -74,9 +74,9 @@
         
 <Section>
     <h2>Projects</h2>
-    <p>
-        Coming soon!
-    </p>
+    <div class='hwrap'>
+        <Project name='Sanifae Legacy' url='https://sanifae.tdgmdev.net/users/tdgmdev' img='https://sanifae.tdgmdev.net/icon_sanifae_black.svg' />
+    </div>
     <h2>Contacts</h2>
     <div class='hwrap'>
         <Project name='GitHub' url='https://github.com/tdgmcode' img='/img/github-mark-white.svg' />
@@ -84,7 +84,6 @@
     </div>
     <h2>Projects (legacy)</h2>
     <div class='hwrap'>
-        <Project name='Sanifae Legacy' url='https://sanifae.tdgmdev.net/users/tdgmdev' img='https://sanifae.tdgmdev.net/icon_sanifae_black.svg' />
         <Project name='NeoScratchTree' url='https://tree.tdgmdev.net/?id=817940396' img='/img/favicon.svg' />
     </div>
     <h2>Extras</h2>
