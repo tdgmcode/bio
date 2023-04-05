@@ -75,7 +75,7 @@
 <Section>
     <h2>Projects</h2>
     <div class='hwrap'>
-        <Project name='Sanifae Legacy' url='https://sanifae.tdgmdev.net/users/tdgmdev' img='https://sanifae.tdgmdev.net/icon_sanifae_black.svg' />
+        <Project name='Sanifae' url='https://sanifae.tdgmdev.net/users/tdgmdev' img='https://sanifae.tdgmdev.net/icon_sanifae_black.svg' />
     </div>
     <h2>Contacts</h2>
     <div class='hwrap'>
