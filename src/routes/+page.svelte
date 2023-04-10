@@ -69,22 +69,19 @@
 <div class='fpage'>
 <img src='/img/favicon.svg'>
 <h3>tdgmcode</h3>
-<p>(malloc62 / Xodrium / Derv)</p>
 </div>
         
 <Section>
     <h2>Projects</h2>
     <div class='hwrap'>
-        <Project name='PlanarCraph' url='https://planar.tdgmdev.net' img='https://planar.tdgmdev.net/favicon.svg' />
         <Project name='Sanifae' url='https://sanifae.tdgmdev.net/users/tdgmdev' img='https://sanifae.tdgmdev.net/icon_sanifae_black.svg' />
-        <Project name='NeoScratchTree' url='https://tree.tdgmdev.net/?id=817940396' img='/img/favicon.svg' />
     </div>
     <h2>Contacts</h2>
     <div class='hwrap'>
         <Project name='GitHub' url='https://github.com/tdgmcode' img='/img/github-mark-white.svg' />
-        <Project name='YouTube' url='https://www.youtube.com/channel/UCX9pYmio1T6yqS-ZjqyNnlg' img='https://www.youtube.com/favicon.ico' /> 
+        <Project name='YouTube' url='https://www.youtube.com/channel/UC8XuOpsm85rVTMcT2Tb7d8w' img='https://www.youtube.com/favicon.ico' /> 
     </div>
     <h2>Extras</h2>
     <p>Matrix: <b>@derv:matrix.org</b></p>
-    <p>Chat: <b>Xodrium#1333</b></p>
+    <p>Chat: <b>tdgmcode#1333</b></p>
 </Section>
