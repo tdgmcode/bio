@@ -79,6 +79,7 @@
     <h2>Contacts</h2>
     <div class='hwrap'>
         <Project name='GitHub' url='https://github.com/tdgmcode' img='/img/github-mark-white.svg' />
+        <Project name='Reddit' url='https://www.reddit.com/user/tdgmcode' img='https://www.reddit.com/favicon.ico' />
         <Project name='YouTube' url='https://www.youtube.com/channel/UC8XuOpsm85rVTMcT2Tb7d8w' img='https://www.youtube.com/favicon.ico' /> 
         <Project name='Condensed' url='https://condensed.lunarsphere.net/u/tdgmcode/' img='https://condensed.lunarsphere.net/img/branding/icon.svg' />
     </div>
