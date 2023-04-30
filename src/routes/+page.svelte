@@ -5,12 +5,13 @@
 
 <style>
     .fpage {
-        flex-direction: column;
-        align-items: center;
+        flex-direction: row;
+        align-items: space-around;
         justify-content: center;
         width: 100vw;
-        height: 350px;
-        margin-bottom: 100px;
+
+        padding: 100px;
+        padding-bottom: 150px;
 
         background: url(/img/border.svg) repeat-x 0% 100%/270px, var(--primary-1);
         color: var(--dark-3);
@@ -20,12 +21,9 @@
         display: flex;
 
         color: var(--light-1);
-
-        animation: translate 3s ease-in-out infinite;
     }
 
     .fpage h3 {
-        filter: drop-shadow(0 0 8px rgba(255,255,255,1));
         font-family: monospace;
     }
 
@@ -35,18 +33,6 @@
     }
 
     @keyframes spin { 100% { transform:rotate(360deg); } } 
-
-    @keyframes translate { 
-        50% { 
-            background: url(/img/border.svg) repeat-x 700px 100%/150px, var(--primary-1); 
-            height: 450px; 
-            margin-bottom: 0;
-        } 
-
-        80% { 
-            background: url(/img/border.svg) repeat-x 0% 100%/400px, var(--primary-1);
-        } 
-    }
 
     h3 {
         font-size: 3.7vmin;
@@ -58,17 +44,59 @@
         width: 100%;
     }
 
-    .hwrap {
+    .fpage, .swrap, .hwrap {
         display: flex;
-        flex-direction: row;
         flex-wrap: wrap;
         justify-content: center;
+    }
+
+    .swrap {
+        flex-direction: column;
+        text-align: center;
+        width: max(50vw, 300px);
+    }
+
+    .button {
+        background: white;
+        color: black;
+        
+        display: flex;
+        width: fit-content;
+        padding: 5px;
+        border-radius: 10px;
+        margin: 5px;
     }
 </style>
 
 <div class='fpage'>
-<img src='/img/favicon.svg'>
-<h3>tdgmcode</h3>
+    <div class='swrap'>
+        <img src='/img/favicon.svg'>
+        <h3>tdgmcode</h3>
+    </div>
+    <div class='swrap'>
+        <span>
+            <p>I am a hobbyist developer. Some day, I strive to work professionally.</p>
+            <div class='hwrap'>
+                <div class='button'>♂️ he/him</div>
+                <div class='button'>📅 2008-03-28</div>
+                <div class='button'>🖥️ Arch Linux</div>
+                <div class='button'>✏️ SvelteKit</div>
+            </div>
+            <p><b>My stances...</b></p>
+            <div class='hwrap'>
+                <div class='button'>✅ Self-Hosting</div>
+                <div class='button'>✅ Open Source</div>
+                <div class='button'>✅ Indie Development</div>
+            </div>
+            <div class='hwrap'>
+                <div class='button'>❌ Website Builders</div>
+                <div class='button'>❌ Big Tech</div>
+                <div class='button'>❌ Windows</div>
+                <div class='button'>❌ Internet Addicts</div>
+                <div class='button'>❌ Petty Social Media Drama</div>
+            </div>
+        </span>
+    </div>
 </div>
         
 <Section>
@@ -80,6 +108,7 @@
     <div class='hwrap'>
         <Project name='GitHub' url='https://github.com/tdgmcode' img='/img/github-mark-white.svg' />
         <Project name='Reddit' url='https://www.reddit.com/user/tdgmcode' img='https://www.reddit.com/favicon.ico' />
+        <Project name='YouTube' url='https://www.youtube.com/@tdgmcode' img='https://www.youtube.com/favicon.ico' />
     </div>
     <h2>Extras</h2>
     <p>Matrix: <b>@derv:matrix.org</b></p>
