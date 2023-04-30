@@ -87,13 +87,12 @@
                 <div class='button'>✅ Self-Hosting</div>
                 <div class='button'>✅ Open Source</div>
                 <div class='button'>✅ Indie Development</div>
+                <div class='button'>✅ LGBTQ+</div>
             </div>
             <div class='hwrap'>
-                <div class='button'>❌ Website Builders</div>
-                <div class='button'>❌ Big Tech</div>
-                <div class='button'>❌ Windows</div>
-                <div class='button'>❌ Internet Addicts</div>
-                <div class='button'>❌ Petty Social Media Drama</div>
+                <div class='button'>❌ Website Builders </div>
+                <div class='button'>❌ Big Tech </div>
+                <div class='button'>❌ Internet Addiction </div>
             </div>
         </span>
     </div>
