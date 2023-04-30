@@ -86,13 +86,12 @@
             <div class='hwrap'>
                 <div class='button'>✅ Self-Hosting</div>
                 <div class='button'>✅ Open Source</div>
-                <div class='button'>✅ Indie Development</div>
                 <div class='button'>✅ LGBTQ+</div>
             </div>
             <div class='hwrap'>
-                <div class='button'>❌ Website Builders </div>
-                <div class='button'>❌ Big Tech </div>
-                <div class='button'>❌ Internet Addiction </div>
+                <div class='button'>❌ Website Builders</div>
+                <div class='button'>❌ Big Tech</div>
+                <div class='button'>❌ Social Media Addiction</div>
             </div>
         </span>
     </div>
@@ -107,7 +106,6 @@
     <div class='hwrap'>
         <Project name='GitHub' url='https://github.com/tdgmcode' img='/img/github-mark-white.svg' />
         <Project name='Reddit' url='https://www.reddit.com/user/tdgmcode' img='https://www.reddit.com/favicon.ico' />
-        <Project name='YouTube' url='https://www.youtube.com/@tdgmcode' img='https://www.youtube.com/favicon.ico' />
     </div>
     <h2>Extras</h2>
     <p>Matrix: <b>@derv:matrix.org</b></p>
