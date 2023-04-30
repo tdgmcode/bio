@@ -79,12 +79,7 @@
     <h2>Contacts</h2>
     <div class='hwrap'>
         <Project name='GitHub' url='https://github.com/tdgmcode' img='/img/github-mark-white.svg' />
-        <Project name='Sketchers United' url='https://sketchersunited.org/users/208210' img='https://sketchersunited.org/pwa/favicon-32x32.png' />
-        <Project name='YouTube' url='https://www.youtube.com/channel/UC8XuOpsm85rVTMcT2Tb7d8w' img='https://www.youtube.com/favicon.ico' /> 
-        <Project name='Twitter' url='https://twitter.com/char__pointer' img='https://abs.twimg.com/favicons/twitter.2.ico' />
         <Project name='Reddit' url='https://www.reddit.com/user/tdgmcode' img='https://www.reddit.com/favicon.ico' />
-        <Project name='DeviantArt' url='https://www.deviantart.com/malloc62' img='https://st.deviantart.net/eclipse/icons/favicon-v2-32x32.png' />
-        <Project name='Condensed' url='https://condensed.lunarsphere.net/u/tdgmcode/' img='https://condensed.lunarsphere.net/img/branding/icon.svg' />
     </div>
     <h2>Extras</h2>
     <p>Matrix: <b>@derv:matrix.org</b></p>
