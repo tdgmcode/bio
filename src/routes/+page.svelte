@@ -8,9 +8,10 @@
         flex-direction: row;
         align-items: space-around;
         justify-content: center;
-        width: 100vw;
+        width: calc(100vw - 100px);
 
-        padding: 100px;
+        padding: 50px;
+        padding-top: 100px;
         padding-bottom: 150px;
 
         background: url(/img/border.svg) repeat-x 0% 100%/270px, var(--primary-1);
@@ -53,7 +54,7 @@
     .swrap {
         flex-direction: column;
         text-align: center;
-        width: max(50vw, 300px);
+        width: max(45vw, 500px);
     }
 
     .button {
@@ -66,6 +67,10 @@
         border-radius: 10px;
         margin: 5px;
     }
+
+    a {
+        text-decoration: none;
+    }
 </style>
 
 <div class='fpage'>
@@ -77,7 +82,7 @@
         <span>
             <p>I am a hobbyist developer. Some day, I strive to work professionally.</p>
             <div class='hwrap'>
-                <div class='button'>♂️ he/him</div>
+                <div class='button'>♂️ He/Him</div>
                 <div class='button'>📅 2008-03-28</div>
                 <div class='button'>🖥️ Arch Linux</div>
                 <div class='button'>✏️ SvelteKit</div>
@@ -85,13 +90,20 @@
             <p><b>My stances...</b></p>
             <div class='hwrap'>
                 <div class='button'>✅ Self-Hosting</div>
-                <div class='button'>✅ FOSS software</div>
+                <div class='button'><a href='https://www.gnu.org/philosophy/free-sw.html'>✅ FOSS software</a></div>
                 <div class='button'>✅ LGBTQ+</div>
             </div>
             <div class='hwrap'>
                 <div class='button'>❌ Website Builders</div>
                 <div class='button'>❌ Big Tech</div>
                 <div class='button'>❌ Social Media Addiction</div>
+            </div>
+            <p><b>Main contacts</b></p>
+            <div class='hwrap'>
+                <div class='button'><a href='https://discord.com/'>tdgmcode#1333</a></div>
+                <div class='button'><a href='https://schildi.chat/'>@derv:matrix.org</a></div>
+                <div class='button'><a href='https://www.reddit.com/user/tdgmcode'>Reddit</a></div>
+                <div class='button'><a href='https://github.com/tdgmcode'>GitHub</a></div>
             </div>
         </span>
     </div>
@@ -100,14 +112,8 @@
 <Section>
     <h2>Projects</h2>
     <div class='hwrap'>
-        <Project name='Sanifae' url='https://sanifae.tdgmdev.net/users/tdgmdev' img='https://sanifae.tdgmdev.net/icon_sanifae_black.svg' />
+        <Project name='Sanifae' url='https://sanifae.tdgmdev.net/users/tdgmdev' img='https://sanifae.tdgmdev.net/icon_sanifae_black.svg' >
+            An experimental social network. Development on hold.
+        </Project>
     </div>
-    <h2>Contacts</h2>
-    <div class='hwrap'>
-        <Project name='GitHub' url='https://github.com/tdgmcode' img='/img/github-mark-white.svg' />
-        <Project name='Reddit' url='https://www.reddit.com/user/tdgmcode' img='https://www.reddit.com/favicon.ico' />
-    </div>
-    <h2>Extras</h2>
-    <p>Matrix: <b>@derv:matrix.org</b></p>
-    <p>Chat: <b>tdgmcode#1333</b></p>
 </Section>
