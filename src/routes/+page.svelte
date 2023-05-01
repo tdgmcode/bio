@@ -85,7 +85,7 @@
             <p><b>My stances...</b></p>
             <div class='hwrap'>
                 <div class='button'>✅ Self-Hosting</div>
-                <div class='button'>✅ Open Source</div>
+                <div class='button'>✅ FOSS software</div>
                 <div class='button'>✅ LGBTQ+</div>
             </div>
             <div class='hwrap'>
