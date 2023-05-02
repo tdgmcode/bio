@@ -112,6 +112,9 @@
 <Section>
     <h2>Projects</h2>
     <div class='hwrap'>
+        <Project name='Life Clock' url='/counter' img='/img/favicon.svg' >
+            The amount of time until I turn 18.
+        </Project>
         <Project name='Sanifae' url='https://sanifae.tdgmdev.net/users/tdgmdev' img='https://sanifae.tdgmdev.net/icon_sanifae_black.svg' >
             An experimental social network. Development on hold.
         </Project>
