@@ -86,23 +86,12 @@
                 <div class='button'>📅 2008-03-28</div>
                 <div class='button'>🖥️ Arch Linux</div>
                 <div class='button'>✏️ SvelteKit</div>
-            </div>
-            <p><b>My stances...</b></p>
-            <div class='hwrap'>
                 <div class='button'>✅ Self-Hosting</div>
-                <div class='button'><a href='https://www.gnu.org/philosophy/free-sw.html'>✅ FOSS software</a></div>
-                <div class='button'>✅ LGBTQ+</div>
-            </div>
-            <div class='hwrap'>
-                <div class='button'>❌ Website Builders</div>
-                <div class='button'>❌ Big Tech</div>
-                <div class='button'>❌ Social Media Addiction</div>
             </div>
             <p><b>Main contacts</b></p>
+            <p>Other accounts are for personal purposes, for advertising, or are being depecrated.</p>
             <div class='hwrap'>
-                <div class='button'><a href='https://discord.com/'>tdgmcode#1333</a></div>
-                <div class='button'><a href='https://schildi.chat/'>@derv:matrix.org</a></div>
-                <div class='button'><a href='https://www.reddit.com/user/tdgmcode'>Reddit</a></div>
+                <div class='button'><a href='mailto:tdgmdev@gmail.com'>Email</a></div>
                 <div class='button'><a href='https://github.com/tdgmcode'>GitHub</a></div>
             </div>
         </span>
