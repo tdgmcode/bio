@@ -111,6 +111,6 @@
         {/each}
         <p class='semibig'>until I need to truly get a life.</p>
     {/if}
-    <p>GC123456 once said that "time ticks". <b>And that is an unfortunate fact.</b></p>
+    <p>Time ticks.</p>
     </div>
 </div>
