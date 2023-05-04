@@ -80,7 +80,7 @@
     </div>
     <div class='swrap'>
         <span>
-            <p>I am a hobbyist developer. Some day, I strive to work professionally.</p>
+            <p>I am a hobbyist developer primarily engineering web applications.</p>
             <div class='hwrap'>
                 <div class='button'>♂️ He/Him</div>
                 <div class='button'>📅 2008-03-28</div>
@@ -93,6 +93,8 @@
             <div class='hwrap'>
                 <div class='button'><a href='mailto:tdgmdev@gmail.com'>Email</a></div>
                 <div class='button'><a href='https://github.com/tdgmcode'>GitHub</a></div>
+                <div class='button'>Discord (tdgmcode#1333)</div>
+                <div class='button'>Matrix (@derv:matrix.org)</div>
             </div>
         </span>
     </div>
